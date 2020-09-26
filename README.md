@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 🍃 I am currently studying: Swift, SwiftUI, Java, HTML and CSS. I am very passionate about learning new things and find learning new languages especially fun.
 
-❗️ How can you reach me? My email address is sidhantk@icloud.com and I am always open to collaborate
+❗️ How can you reach me? My email address is sidhantk@icloud.com
