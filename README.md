@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-✅ This is what I am currently working on: ✨Swift Memorize game ✨Building my website ✨School
-
-🍃 I am currently studying: Swift, SwiftUI, Java, HTML and CSS. I am very passionate about learning new things and find learning new languages especially fun.
-
-❗️ How can you reach me? My email address is sidhantk@icloud.com
