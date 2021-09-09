@@ -1,4 +1,4 @@
-### Hi my name is Sidhant, welcome to my Github profile 😄
+### Hi my name is Sidhant
 
 <!--
 **SidhantKaushik/SidhantKaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
